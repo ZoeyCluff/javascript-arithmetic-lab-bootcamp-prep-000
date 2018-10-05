@@ -24,3 +24,12 @@ function inc(n) {
   var number = n++
   return number
 }
+
+function dec(n) {
+  var number = n--
+  return number
+}
+
+function makeInt(n) {
+  number = parseInt
+}
